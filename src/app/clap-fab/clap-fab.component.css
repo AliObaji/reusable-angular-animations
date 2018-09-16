@@ -1,0 +1,13 @@
+:host {
+  background-color: red;
+  width: 5rem;
+  height: 5rem;
+  display: inline-flex;
+  margin: auto;
+  color: white;
+  border-radius: 50%;
+}
+
+h6 {
+  margin: auto;
+}
